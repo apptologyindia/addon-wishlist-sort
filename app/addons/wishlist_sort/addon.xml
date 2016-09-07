@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="2.0" edition_type="ROOT,ULT">
+    <id>wishlist_sort</id>
+    <version>1.0</version>
+    <default_language>en</default_language>
+    <name>Wishlist products ABC</name>
+    <description>Display wishlist products in alphabetical order</description>
+    <status>active</status>
+    <auto_install>ULTIMATE</auto_install>
+</addon>
