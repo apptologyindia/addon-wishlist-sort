@@ -2,7 +2,8 @@
 
 if (!defined('BOOTSTRAP')) { die('Access denied'); }
 
-function fn_wishlist_sort_extract_cart(&$cart, &$user_id, &$type, &$user_type) {
+function fn_wishlist_sort_extract_cart(&$cart, &$user_id, &$type, &$user_type)
+{
 
     $old_session_id = '';
     unset($cart['products']);
