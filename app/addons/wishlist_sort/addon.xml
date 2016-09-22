@@ -7,4 +7,7 @@
     <description>Display wishlist products in alphabetical order</description>
     <status>active</status>
     <auto_install>ULTIMATE</auto_install>
+    <compatibility>
+        <dependencies>wishlist</dependencies>
+    </compatibility>
 </addon>
